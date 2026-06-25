@@ -15,9 +15,9 @@ einer vertrauenswürdigen Quelle stammen.
 
 Dies erfolgt durch eine Kombination bestehender W3C-Standards wie:
 
-• Decentralized Identiﬁers (DID)
-• Veriﬁable Credentials
-• Data Integrity Standards
+- Decentralized Identiﬁers (DID)
+- Verifiable Credentials
+- Data Integrity Standards
 
 Es soll ein Ökosystem entstehen, das digitale Vertrauenswürdigkeit von Webinhalten
 erhöht und deren Herkunft überprüfbar macht.
