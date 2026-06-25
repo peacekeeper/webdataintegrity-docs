@@ -22,6 +22,10 @@ Dies erfolgt durch eine Kombination bestehender W3C-Standards wie:
 Es soll ein Ökosystem entstehen, das digitale Vertrauenswürdigkeit von Webinhalten
 erhöht und deren Herkunft überprüfbar macht.
 
+## Architektur
+
+![Architektur](https://peacekeeper.github.io/webdataintegrity-docs/Architecture.jpg)
+
 ## Docs
 
 Dieses Repository ist noch in Arbeit und wird zusätzliche Dokumentation enthalten.
