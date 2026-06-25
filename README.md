@@ -1,2 +1,32 @@
 # webdataintegrity-docs
-Docs for the WebDataIntegrity project
+
+Dieses Repository ist Teil des Projekts "WebDataIntegrity":
+
+- https://www.netidee.at/webdataintegrity
+- https://github.com/peacekeeper/webdataintegrity-docs
+- https://github.com/peacekeeper/webdataintegrity-examples
+- https://github.com/peacekeeper/webdataintegrity-plugin
+
+## Projektziel
+
+Das Projekt entwickelt eine Lösung, um Webinhalte mit veriﬁzierbaren Metadaten
+auszustatten. So sollen Nutzer:innen feststellen können, ob Inhalte unverändert und von
+einer vertrauenswürdigen Quelle stammen.
+
+Dies erfolgt durch eine Kombination bestehender W3C-Standards wie:
+
+• Decentralized Identiﬁers (DID)
+• Veriﬁable Credentials
+• Data Integrity Standards
+
+Es soll ein Ökosystem entstehen, das digitale Vertrauenswürdigkeit von Webinhalten
+erhöht und deren Herkunft überprüfbar macht.
+
+## Docs
+
+Dieses Repository ist noch in Arbeit und wird zusätzliche Dokumentation enthalten.
+
+Derzeit existieren Dokumentation zu Beispielen und zu einem Browser-Plugin:
+
+- https://github.com/peacekeeper/webdataintegrity-examples
+- https://github.com/peacekeeper/webdataintegrity-plugin
